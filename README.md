@@ -6,3 +6,10 @@
 - 🚀 I am interested in enhancing my career both as a programmer and in the field of business
 - 💬 In addition, during my free time, I train in the gym and practice mountain sports such as hiking and skiing
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luis-gandarillas)
+
+# Skills
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,python,git,github,bash,linux,vim" />
+  </a>
+</p>
