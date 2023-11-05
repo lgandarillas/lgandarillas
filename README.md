@@ -6,7 +6,8 @@
 - 🚀 I am interested in enhancing my career both as a programmer and in the field of business
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/luis-gandarillas)
 
-# Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgandarillas&layout=compact)
+
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,python,git,github,linux" />
