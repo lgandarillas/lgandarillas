@@ -9,17 +9,19 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lgandarillas&layout=compact)
 
 <p align="left">
+    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
+  </a>
+    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
+  </a>
     <img src="https://skillicons.dev/icons?i=c" alt="C" />
+  </a>
+      <img src="https://skillicons.dev/icons?i=cpp" alt="C++" />
   </a>
     <img src="https://skillicons.dev/icons?i=python" alt="Python" />
   </a>
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" />
   </a>
     <img src="https://skillicons.dev/icons?i=git" alt="Git" />
-  </a>
-    <img src="https://skillicons.dev/icons?i=bash" alt="Bash" />
-  </a>
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
   </a>
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" />
   </a>
